@@ -1,6 +1,6 @@
 # Lesson Backups
 
-- Open [Lesson_VIEWER.ipynb](Lesson_VIEWER.ipynb) to see content.
+- Open [LESSON_VIEWER.ipynb](LESSON_VIEWER.ipynb) to see content.
 
 <!-- 
 1. [My SQL Workbench](1_my_sql_workbench.md)
